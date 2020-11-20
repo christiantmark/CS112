@@ -1,0 +1,4 @@
+a. Two fields
+b. No because there are no mutator methods to change the values of the fields
+c. The instance field "shipsRemaining" helps track how many unsunk ships there are on the board. Also the 2d array shipAt helps show where the ships are on the board.
+d. b.hasBeenTried(r, c) //the value returned by this call will indicate whether or not position (r, c) has been hit or missed previously. True means that something happened previously and false indicates that nothing happened.
